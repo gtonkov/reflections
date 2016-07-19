@@ -1,0 +1,5 @@
+It show the changes introduced in the new file. If the old one was working and the new one note, it would show what's wrong.
+Access to older copies of code shows progress and.
+Automatic commits could save unfinished work.
+Multiple files in one commits help group related entities. 
+git log shows commits git diff shows differences.
